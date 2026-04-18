@@ -1,0 +1,5 @@
+# Add files and directories to ignore
+*.log
+*.tmp
+node_modules/
+.DS_Store
